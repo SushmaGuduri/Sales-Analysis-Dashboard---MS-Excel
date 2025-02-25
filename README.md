@@ -1,5 +1,7 @@
 # Sales-Analysis-Dashboard---MS-Excel
 
+https://github.com/SushmaGuduri/Sales-Analysis-Dashboard---MS-Excel/blob/main/Sales%20Dahboard.png
+
 # Sales Analysis Dashboard – Business Insights & Performance Tracking
 ## Project Overview
 
